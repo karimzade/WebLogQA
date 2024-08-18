@@ -4,11 +4,9 @@ import faker
 from datetime import datetime
 from datetime import date
 import random
-from random import randint, choice
-import sys
+from random import choice
 import time
 import faker
-from datetime import datetime
 import os
 
 
