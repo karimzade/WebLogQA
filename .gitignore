@@ -1,0 +1,8 @@
+# Gizli dosyalar
+.env
+
+# JSON dosyası
+bm25_values.json
+
+# Diğer dosyalar ve dizinler
+.vscode/
